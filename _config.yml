@@ -108,7 +108,7 @@ author:
   location         : "United States"
   email            :
   links:
-    - label: "Sessionnize Call for Speakers"
+    - label: "Sessionize Call for Speakers"
       icon: "fas fa-fw fa-envelope-square"
       url: "https://sessionize.com/gimme-cloud-talks"
     - label: "Website"
