@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Gimme Cloud Talks"
-  avatar           : "/assets/images/gimmecloudtalks-logo1.png"
+  avatar           : "/blob/main/docs/assets/images/gimmecloudtalks-logo1.png"
   bio              : "Site Under Construction."
   location         : "United States"
   email            :
