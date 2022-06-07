@@ -20,7 +20,7 @@ title                    : "Gimme Cloud Talks"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Gimme Cloud Talks"
-description              : "An amazing website - UNDER CONSTRUCTION."
+description              : "Global Community Group"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
