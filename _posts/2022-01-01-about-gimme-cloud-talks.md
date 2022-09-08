@@ -9,6 +9,15 @@ tags:
   - lists
   - markup
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VFFBW7ZJ04"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VFFBW7ZJ04');
+</script>
 
 # **Welcome to Gimme Cloud Talks** 
 
