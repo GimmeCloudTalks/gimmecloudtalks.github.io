@@ -34,4 +34,4 @@ Call for Speakers is open at <https://sessionize.com/gimme-cloud-talks-global-az
 
 <script type="text/javascript" src="https://sessionize.com/api/v2/99f6qao8/view/Sessions"></script>
 
-<script type="text/javascript" src="https://sessionize.com/api/v2/99f6qao8/view/SpeakerWall"></script>
+<script type="text/javascript" src="https://sessionize.com/api/v2/99f6qao8/view/Speakers"></script>
