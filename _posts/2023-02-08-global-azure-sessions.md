@@ -19,7 +19,7 @@ tags:
   gtag('config', 'G-VFFBW7ZJ04');
 </script>
 
-## Welcome to Gimme Cloud Talks Global Azure 2023 Event ##
+## Welcome to Gimme Cloud Talks Global Azure 2023 Event Details ##
 
 Gimme Cloud Talks is providing an opportunity for speakers to participate in Global Azure 2023 through our user group site.  
 
