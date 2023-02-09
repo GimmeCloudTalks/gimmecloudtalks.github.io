@@ -1,5 +1,5 @@
 ---
-title: "Gimme Cloud Talks - Global Azure 2023 Information"
+title: "Gimme Cloud Talks - Global Azure 2023 Event Information"
 categories:
   - Edge Case
 tags:
