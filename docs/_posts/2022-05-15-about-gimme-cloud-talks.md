@@ -13,7 +13,7 @@ tags:
 # **Welcome to Gimme Cloud Talks** 
 
 
-<img src="/assets/images/gimmecloudtalks-logo1.png" width="400">
+<img src="/assets/images/rectangular_logo_without_background.png" width="400">
 
 **The new location and initiative from the MW Azure and M365 user group**
 
