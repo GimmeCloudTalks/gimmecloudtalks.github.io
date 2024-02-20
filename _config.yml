@@ -108,9 +108,6 @@ author:
   location         : "Global"
   email            :
   links:
-    - label: "Sessionize Call for Speakers"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "https://sessionize.com/gimme-cloud-talks"
     - label: "LinkedIn Group"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/groups/12293597/"
