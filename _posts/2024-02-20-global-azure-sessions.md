@@ -1,3 +1,15 @@
+---
+title: "Gimme Cloud Talks - Global Azure 2024 Session Schedule"
+categories:
+  - Edge Case
+tags:
+  - content
+  - css
+  - edge case
+  - lists
+  - markup
+---
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VFFBW7ZJ04"></script>
 <script>
