@@ -19,6 +19,6 @@ tags:
   gtag('config', 'G-VFFBW7ZJ04');
 </script>
 
-## Welcome to Gimme Cloud Talks Global Azure 2024 Speakers ##
+## Welcome to Gimme Cloud Talks Global Azure 2025 Speakers ##
 
 <script type="text/javascript" src="https://sessionize.com/api/v2/dnbu2t9y/view/SpeakerWall"></script>
